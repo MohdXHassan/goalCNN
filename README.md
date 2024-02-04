@@ -12,7 +12,7 @@ learnings :-
 
   <p align = "center"><img  src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" /></p>
   <br>
- <img align = "center" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" /> 
+ <p align = "center"><img align = "center" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" /></p> 
 
 ```
 2.⁠ ⁠Import in any dataset and do linear regression on it with pandas to make it a dataframe and sklearn
