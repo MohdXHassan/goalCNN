@@ -30,4 +30,8 @@ called the independent variables, inputs, regressors, or predictors.
 ```
 ```
 3.⁠ ⁠Do clustering on the iris dataset with seaborn for graphs
+Reference :- https://realpython.com/k-means-clustering-python/
+https://www.geeksforgeeks.org/analyzing-decision-tree-and-k-means-clustering-using-iris-dataset/
+Learning :- seaborn is just a library build on matplotlib and numpy and its just for ploting .
+Need to understand K mean clustering .
 ```
