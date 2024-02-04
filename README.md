@@ -10,7 +10,7 @@ learnings :-
 
 ```
 
-  <img align = "center" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" />
+  <center><img align = "center" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" /></center>
   <br>
  <img align = "center" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" /> 
 
