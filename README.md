@@ -9,10 +9,9 @@ learnings :-
 2. Flaw of having different scale of different things looks same in two seperate plot but different in 1 plot .
 
 ```
-<p float="left">
-  <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" width="500" height = "500" />
-  <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" width="500" height = "500"/> 
-</p>
+
+  <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" width="500" />
+ <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" width="500" height = "600"/> 
 
 ```
 2.⁠ ⁠Import in any dataset and do linear regression on it with pandas to make it a dataframe and sklearn
