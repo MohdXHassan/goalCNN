@@ -35,3 +35,5 @@ https://www.geeksforgeeks.org/analyzing-decision-tree-and-k-means-clustering-usi
 Learning :- seaborn is just a library build on matplotlib and numpy and its just for ploting .
 Need to understand K mean clustering .
 ```
+
+<img width="1000" alt="Screenshot 2024-02-05 at 3 31 23 AM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/70414abb-ab86-4923-9fe7-026dff738c0e">
