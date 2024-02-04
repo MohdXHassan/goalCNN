@@ -5,7 +5,7 @@ My journey to my own End to End Learning for Self-Driving Cars.(don't know why)
 ```
 1.⁠ ⁠Graph polynomials in python with matolotlib.pyplot(DONE)
 learnings :-
-1. How to plot graph and see results in graph .
+1. How to plot polynomials and see results with matplotlib .
 2. Flaw of having different scale of different things looks same in two seperate plot but different in 1 plot .
 
 ```
