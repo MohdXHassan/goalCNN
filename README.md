@@ -9,7 +9,6 @@ learnings :-
 2. Flaw of having different scale of different things looks same in two seperate plot but different in 1 plot .
 
 ```
-< src =  </img>
 
 <img  src="![WhatsApp Image 2024-02-03 at 19 34 07 (2)](https://github.com/MohdXHassan/goalCNN/assets/46120048/36e90032-2276-4c31-8478-b2cb1cddd46e)" width = "1000">
 
