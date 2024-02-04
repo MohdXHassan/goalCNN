@@ -10,7 +10,7 @@ learnings :-
 
 ```
 
-<img  width = "1000" src =![WhatsApp Image 2024-02-03 at 19 34 07 (2)](https://github.com/MohdXHassan/goalCNN/assets/46120048/36e90032-2276-4c31-8478-b2cb1cddd46e)  >
+<img  width = "1000" src ="https://github.com/MohdXHassan/goalCNN/assets/46120048/36e90032-2276-4c31-8478-b2cb1cddd46e"  >
 
 
 ```
