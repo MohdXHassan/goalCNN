@@ -9,10 +9,10 @@ learnings :-
 2. Flaw of having different scale of different things looks same in two seperate plot but different in 1 plot .
 
 ```
-
-<img  align = "center" width = "400" src ="https://github.com/MohdXHassan/goalCNN/assets/46120048/36e90032-2276-4c31-8478-b2cb1cddd46e"  >
-
-
+<p float="left">
+  <img src="/img1.png" width="400" />
+  <img src="/img2.png" width="400" /> 
+</p>
 ```
 2.⁠ ⁠Import in any dataset and do linear regression on it with pandas to make it a dataframe and sklearn
 First thing is to know about regression:= what is it. 
