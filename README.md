@@ -10,7 +10,7 @@ learnings :-
 
 ```
 <p float="left">
-  <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/cce25f44-cc0c-4644-917a-5ac66a366de0" width="400" />
+  <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/3dfb0d65-5598-4de4-9349-58bfef4fa8d5" width="400" />
   <img src="https://github.com/MohdXHassan/goalCNN/assets/46120048/81538914-62d7-49f5-be38-b2109825d8c2" width="400" /> 
 </p>
 ```
