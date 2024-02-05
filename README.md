@@ -45,5 +45,6 @@ Next time silhouette coefficient
 
 ```
 Done LR on kaggle dataset :- https://www.kaggle.com/datasets/andonians/random-linear-regression
-
+Next goal is to try something more complex with Multiple Linear Regression.(next week maybe)
+for now bye .
 ```
