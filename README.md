@@ -41,3 +41,9 @@ Next time silhouette coefficient
 ```
 
 <img width="1000" alt="Screenshot 2024-02-05 at 3 31 23 AM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/70414abb-ab86-4923-9fe7-026dff738c0e">
+
+
+```
+Done LR on kaggle dataset :- https://www.kaggle.com/datasets/andonians/random-linear-regression
+
+```
