@@ -53,3 +53,6 @@ Done Multi linear regression on kaggle dataset with income prediction on the bas
 
 ```
 <img width="1000" alt="Screenshot 2024-02-13 at 3 16 45 PM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/bc23679b-6575-4447-be20-97cc8229b919">
+
+<img width="1000" alt="Screenshot 2024-02-13 at 3 17 45 PM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/40bdb957-0c1b-4835-aecd-9abd18e2981c">
+<img width="1000" alt="Screenshot 2024-02-13 at 3 16 45 PM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/0ed56d9a-4d4b-4617-9f57-0917e86c56cc">
