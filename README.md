@@ -49,4 +49,6 @@ Next goal is to try something more complex with Multiple Linear Regression.(next
 for now bye .
 ```
 ```
-Done Multi linear regression on kaggle dataset with income prediction on the basis of age and experience.    ```
+Done Multi linear regression on kaggle dataset with income prediction on the basis of age and experience.
+
+```
