@@ -52,3 +52,4 @@ for now bye .
 Done Multi linear regression on kaggle dataset with income prediction on the basis of age and experience.
 
 ```
+<img width="1000" alt="Screenshot 2024-02-13 at 3 16 45 PM" src="https://github.com/MohdXHassan/goalCNN/assets/46120048/bc23679b-6575-4447-be20-97cc8229b919">
