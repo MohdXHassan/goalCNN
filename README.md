@@ -48,3 +48,7 @@ Done LR on kaggle dataset :- https://www.kaggle.com/datasets/andonians/random-li
 Next goal is to try something more complex with Multiple Linear Regression.(next week maybe)
 for now bye .
 ```
+```
+Done Multi linear regression on kaggle dataset with income prediction on the basis of age and experience.
+
+```
